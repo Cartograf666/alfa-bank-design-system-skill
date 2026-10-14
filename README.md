@@ -51,8 +51,8 @@ HTML по согласованному макету и проверка в бр�
 Клонируйте репозиторий. Пока он приватный, для клонирования нужен доступ к нему.
 
 ```sh
-git clone https://github.com/Cartograf666/alfa-bank-design-system.git
-cd alfa-bank-design-system
+git clone https://github.com/Cartograf666/alfa-bank-design-system-skill.git
+cd alfa-bank-design-system-skill
 ```
 
 Скопируйте папку `skills/alfa-bank-design-system` **целиком** в каталог навыков:
