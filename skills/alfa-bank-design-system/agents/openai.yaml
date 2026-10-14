@@ -1,0 +1,6 @@
+interface:
+  display_name: "Дизайн-система Альфа-Банка"
+  short_description: "Макеты Figma и HTML по дизайн-системе Альфа-Банка"
+  default_prompt: "Используй $alfa-bank-design-system, чтобы спроектировать и собрать интерфейс по дизайн-системе Альфа-Банка."
+policy:
+  allow_implicit_invocation: true
